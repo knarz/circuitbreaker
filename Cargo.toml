@@ -1,0 +1,10 @@
+[package]
+name = "circuitbreaker"
+version = "0.1.0"
+authors = ["Sascha Hanse <shanse@gmail.com>"]
+license = "MIT"
+description = "wrap expensive function calls to fail quickly"
+repository = "https://www.github.com/knarz/circuitbreaker"
+homepage = "https://www.github.com/knarz/circuitbreaker"
+
+[dependencies]
